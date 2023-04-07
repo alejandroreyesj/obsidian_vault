@@ -1,0 +1,9 @@
+- [ ] Git
+- [ ] SQL
+- [ ] Python
+- [ ] Rust
+- [ ] Go
+- [ ] Scala
+- [ ] Haskell
+- [ ] C
+- [ ] 
